@@ -1,2 +1,8 @@
 
 node_modules/**
+# Gatrix Encryption - Do Not Edit
+*
+!*/
+!*.gitignore
+!*.encrypted
+# End of Gatrix Encryption
