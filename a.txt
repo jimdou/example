@@ -1,4 +1,1 @@
 5ba605ae5d250dd87185ceff68e72e52e7cf42ec59b8d4d1415afdac622aa5b6
-File encrypted with Gatrix.
-Use "npm install --save-dev gatrix" to decrypt it.
-Learn more at https://gatrix.io.
